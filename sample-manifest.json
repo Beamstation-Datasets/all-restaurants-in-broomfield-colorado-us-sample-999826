@@ -1,12 +1,12 @@
 {
-  "export_job_id": "70f6622b-8f66-4d45-a413-c1cd3469a265",
+  "export_job_id": "d10c0735-ac2b-4eac-9a35-4afec49fd069",
   "id_short": 999826,
-  "published_at": "2026-04-23T19:07:06Z",
+  "published_at": "2026-04-30T19:23:05Z",
   "repo_name": "all-restaurants-in-broomfield-colorado-us-sample-999826",
   "sample_asset_name": "beamstation_999826_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/999826/beamstation_999826_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 16,
-  "sample_sha256": "bb3613ce9ba14bb755d7dd710966f62762f7a431c919a8d37b121000c6eed4d4",
-  "sample_size_bytes": 76431,
-  "total_records": 163
+  "sample_records": 19,
+  "sample_sha256": "fe6afccd67452944d2a87cbd1caf99840570558f7c4d9d1c8de389613a4d8a5d",
+  "sample_size_bytes": 78161,
+  "total_records": 198
 }
